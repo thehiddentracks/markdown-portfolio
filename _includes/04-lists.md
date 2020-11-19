@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Japanese Restaurants
+  * Cocolo Ramen
+  * Watapas
+  
+* Vietnamese Reaturants
+  * Madami
+  * Viet Frisch
